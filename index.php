@@ -14,9 +14,9 @@
                 <label for="email">Email</label>
                 <input type="email" name="email" id="email">
                 <label for="password">Contraseña</label>
-                <input name="password" id="password">
+                <input name="password" id="password" type="password">
                 <label for="verify">Verificar Contraseña</label>
-                <input name="verify" id="verify">
+                <input name="verify" id="verify" type="password">
             </div>
             <div>
                 <button type="submit">Registrar</button>
