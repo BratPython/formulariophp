@@ -13,12 +13,18 @@
                 <input type="text" name="nombre" id="nombre">
                 <label for="email">Email</label>
                 <input type="email" name="email" id="email">
-                <label for="password">Contraseña</label> <input name="password" id="password">
+                <label for="password">Contraseña</label>
+                <input name="password" id="password">
+                <label for="verify">Verificar Contraseña</label>
+                <input name="verify" id="verify">
             </div>
             <div>
                 <button type="submit">Registrar</button>
             </div>
         </form>
+        <div>
+            <a class="link" href="http://localhost/formulariophp/login.php">Si quieres iniciar sesión dale aqui</a>
+        </div>
     </div>
 </body>
 </html>
