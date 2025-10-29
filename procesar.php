@@ -82,9 +82,4 @@ if ($validacionPass !== true) {
 }
 
 guardar($nombre, $email, $password, $archivo);
-
-echo '<div>
-        <h2>Registro exitoso</h2>
-        <a href="index.php">Volver</a>
-      </div>';
 ?>

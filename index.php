@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="form-container">
-        <form action="procesar.php" method="POST" class="form-container-child">
+        <form action="login.php" method="POST" class="form-container-child">
             <div class="form">
                 <label for="nombre">Nombre</label>
                 <input type="text" name="nombre" id="nombre">
