@@ -82,4 +82,7 @@ if ($validacionPass !== true) {
 }
 
 guardar($nombre, $email, $password, $archivo);
+
+header('Location: login.php');
+exit;
 ?>

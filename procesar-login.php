@@ -40,4 +40,7 @@ if ($_POST) {
         }
     }
 }
+
+header('Location: main.php');
+exit;
 ?>
