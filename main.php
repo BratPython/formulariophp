@@ -30,6 +30,9 @@ if (!isset($_SESSION['usuario'])) {
             <h2>Sobre Mi</h2>
             <p>Soy un gatito muy lindo tierno, adorable, hermoso, inteligente, y tengo una casa muy grande donde me dan mucho amor todos los dias, me hacen sentir en la gatito mas feliz del gatimundo</p>
             <p>tengo 1y de edad y desde que naci, lleno de ternura a todo el humano que me ve, tan solo mira mis fotos 🥰</p>
+            <a href="logout.php">
+                Cerrar Sesion :(
+            </a>
         </section>
 
         <section class="gallery-container">
